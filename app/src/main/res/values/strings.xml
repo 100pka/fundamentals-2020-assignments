@@ -2,4 +2,5 @@
     <string name="app_name" translatable="false">FundamentalsAssignments</string>
     <string name="hello_world">Hello World!</string>
     <string name="hello_landscape_world" translatable="false">Hello Landscape World!</string>
+    <string name="this_is_second_activity">This is second activity</string>
 </resources>
